@@ -1,0 +1,64 @@
+h2 {
+    color:#B97375;
+    font-weight: 800;
+    text-align: center;
+}
+h1{
+    color:#B97375;
+    text-align: center;
+    font-weight: 800;
+}
+h3{
+    text-align:left;
+    color:#B97375;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background-color:#E2DCDE ;
+}
+title{
+    text-align: center;
+}
+#intro{
+    text-align: left;
+    color:#2D2D34;
+    font-family: cursive;
+}
+#visit{
+    text-align:left;
+    color:#B97375;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#mine{
+    color:#B97375;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#fedback{
+    color:#B97375;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#write{
+    color:#2D2D34;
+}
+section{
+    color:#2D2D34;
+}
+a{
+    text-decoration: none;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 300;
+    color:#2D2D34;
+    font-size: 14px;
+}
+#pic{
+    font-size: 10px;
+}
+#om{
+    color:rgb(148, 111, 98);
+    font-size: 13px;
+}
